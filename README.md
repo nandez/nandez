@@ -41,9 +41,14 @@ I'm a tech-savvy problem solver, game developer, and founder of **Nanware**, a d
 
 ---
 
-> _“Technology is my canvas—through code, I craft interactive worlds that resonate, evolve, and inspire.”_
+### Gotta commit 'em all...
 
-![Snake animation](https://github.com/nandez/nandez/blob/output/github-contribution-grid-snake.svg)
+<picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandez/nandez/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandez/nandez/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nandez/nandez/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
+</picture>
+
 
 <!---
 nandez/nandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
