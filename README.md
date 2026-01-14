@@ -36,6 +36,8 @@ Versatility is the game. Creativity is the fuel.
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://nand3z.itch.io/pac-ztec"><img src="assets/pacztec-cover.png" alt="Pac-Ztec" width="100%"/></a>
+
 **[Pac-Ztec](https://nand3z.itch.io/pac-ztec)**
 
 A 3D Pac-Man reimagining with an Aztec twist. Built in Unity, focused on recreating the precise grid-based movement that made the original tick. Custom waypoint system, procedural maze generation using recursive backtracking with braiding, and way too much time thinking about how ghosts should behave.
@@ -60,6 +62,8 @@ Constant motion as the core constraint. Simple touch controls, one-handed play, 
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://play.unity.com/es/games/083c80c7-8fef-4417-914f-7a714aa2841f/the-watcher-academic-terrain-demo"><img src="assets/the-watcher-cover.png" alt="The Watcher" width="100%"/></a>
+
 **[The Watcher](https://play.unity.com/es/games/083c80c7-8fef-4417-914f-7a714aa2841f/the-watcher-academic-terrain-demo)**
 
 A peaceful first-person sandbox built to explore Unity's terrain tools, quest mechanics, and interactive world systems. Less about winning, more about wandering and seeing what the engine can do.
@@ -68,6 +72,8 @@ A peaceful first-person sandbox built to explore Unity's terrain tools, quest me
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/nandez/ringalytics"><img src="https://github.com/nandez/ringalytics/raw/main/cover.png" alt="Ringalytics" width="100%"/></a>
 
 **[Ringalytics](https://github.com/nandez/ringalytics)**
 
