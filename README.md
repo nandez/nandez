@@ -20,13 +20,13 @@
 
 ### About Me
 
-I like to build things, products, prototypes, half-finished experiments at 2am. Some make it to production, others exist purely for the joy of figuring out how they work. I've been writing code for over a decade, but the curiosity hasn't worn off yet.
+I like to build things, products, prototypes, half-finished experiments at 2am. Some make it to production, others exist purely for the joy of figuring out how they work. I've been writing code for over half a decade, but the curiosity hasn't worn off yet.
 
-By day, I juggle IT infrastructure and software engineering, solving problems across systems, automation, and security. By night (and weekends), I run **[Nanware](https://nanware.uy)**, my personal workshop where I explore game development, tinker with new tech, and chase whatever idea won't leave me alone.
+I juggle IT infrastructure and software engineering, solving problems across systems, automation, and dealing with a wide variety of tech aspects. In my spare time, I run **[Nanware](https://nanware.uy)**, my personal workshop / garage, where I explore game development, tinker with new tech, and chase whatever idea won't leave me alone.
 
-I'm particularly drawn to understanding *how things work under the hood*. Whether it's reverse-engineering classic arcade movement, figuring out why a procedural algorithm produces certain patterns, digging into how a device communicates over BLE, or modding games to see what makes them tick, the investigation is half the fun.
+I'm particularly drawn to understanding *how things work under the hood*. Whether it's reverse-engineering something, figuring out why a procedural algorithm produces certain patterns, digging into how a device communicates over BLE, or modding games to see what makes them tick, the investigation is half the fun.
 
-Versatility is the game. Creativity is the fuel.
+Divergent minds operate differently; versatility is the game while creativity is the fuel.
 
 ---
 
@@ -40,7 +40,7 @@ Versatility is the game. Creativity is the fuel.
 
 **[Pac-Ztec](https://nand3z.itch.io/pac-ztec)**
 
-A 3D Pac-Man reimagining with an Aztec twist. Built in Unity, focused on recreating the precise grid-based movement that made the original tick. Custom waypoint system, procedural maze generation using recursive backtracking with braiding, and way too much time thinking about how ghosts should behave.
+A 3D Pac-Man reimagining with an Aztec twist. Built in Unity, focused on recreating the original game with extra challenges.
 
 The goal isn't just to clone a classic, it's to understand *why* it works. Every mechanic is an excuse to dig deeper.
 
@@ -51,9 +51,9 @@ The goal isn't just to clone a classic, it's to understand *why* it works. Every
 
 **Tidal Treachery**
 
-Mobile arcade-exploration game. Snake meets pirate adventure: navigate an ever-moving ship through procedural oceans, collect loot, raid islands, upgrade your vessel. Roguelike structure with meta-progression between runs.
+The idea? A mobile arcade-exploration game where snake meets pirate adventure: navigate an ever-moving ship through procedural oceans, collect loot, raid islands, upgrade your vessel. Roguelike structure with meta-progression between runs.
 
-Constant motion as the core constraint. Simple touch controls, one-handed play, 15-45 minute sessions. Currently in early design exploring the core loop.
+Still on the drawing board...
 
 `Unity` `C#` `Mobile` `Roguelike`
 
@@ -77,7 +77,9 @@ A peaceful first-person sandbox built to explore Unity's terrain tools, quest me
 
 **[Ringalytics](https://github.com/nandez/ringalytics)**
 
-Open source Android app for reading smart ring data. An AI-assisted experiment built with Flutter, inspired by the Gadgetbridge project. Born from curiosity about what data these devices actually collect and how to access it without vendor lock-in.
+An open source Android app for reading smart ring data; an AI-assisted experiment built with Flutter, inspired by the Gadgetbridge project. Born from curiosity about what data these devices actually collect and how to access it without vendor lock-in.
+
+And because I had a cheap smart ring tucked away in a nightstand drawer.
 
 `Flutter` `Dart` `Android` `Open Source`
 
