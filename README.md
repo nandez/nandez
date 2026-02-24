@@ -49,13 +49,16 @@ The goal isn't just to clone a classic, it's to understand *why* it works. Every
 </td>
 <td width="50%" valign="top">
 
-**Tidal Treachery**
+<a href="https://nand3z.itch.io/pocketgalaxy"><img src="assets/pocket-galaxy-cover.png" alt="Pocket Galaxy" width="100%"/></a>
 
-The idea? A mobile arcade-exploration game where snake meets pirate adventure: navigate an ever-moving ship through procedural oceans, collect loot, raid islands, upgrade your vessel. Roguelike structure with meta-progression between runs.
+**[Pocket Galaxy](https://nand3z.itch.io/pocketgalaxy)**
 
-Still on the drawing board...
+A first-person exploration game where you hop between tiny spherical planets, each with its own radial gravity and environmental puzzles.
+Built in Unity 6 for the Brackeys Game Jam 15, targeting WebGL.
 
-`Unity` `C#` `Mobile` `Roguelike`
+The premise is simple: a small ship, a handful of worlds that fit in your pocket, and the question of what happens when "down" is always toward the center.
+
+`Unity` `C#` `WebGL` `Adventure`
 
 </td>
 </tr>
